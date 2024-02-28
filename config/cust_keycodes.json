@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"N1 and $"
+		],
+		"description": "N1 and $",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
